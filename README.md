@@ -2,7 +2,7 @@
 
 A modern, responsive landing page for a Study MBBS Abroad consultancy service built with React, Vite, TypeScript, and Tailwind CSS.
 
-![Landing Page Preview](https://landingpagembbs.netlify.app/)
+Live Link: [https://landingpagembbs.netlify.app/](https://landingpagembbs.netlify.app/)
 
 ## Features
 
