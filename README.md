@@ -1,6 +1,6 @@
 # Study MBBS Abroad Landing Page
 
-A modern, responsive landing page for a Study MBBS Abroad consultancy service built with React, Vite, TypeScript, and Tailwind CSS.
+A modern, responsive landing page for a Study MBBS Abroad consultancy service built with React, Vite, JavaScript, and Tailwind CSS.
 
 Live Link: [https://landingpagembbs.netlify.app/](https://landingpagembbs.netlify.app/)
 
