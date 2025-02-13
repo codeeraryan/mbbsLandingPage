@@ -2,7 +2,7 @@
 
 A modern, responsive landing page for a Study MBBS Abroad consultancy service built with React, Vite, TypeScript, and Tailwind CSS.
 
-![Landing Page Preview](public/og-image.png)
+![Landing Page Preview](https://landingpagembbs.netlify.app/)
 
 ## Features
 
@@ -40,7 +40,7 @@ src/
 
 1. Clone the repository:
 ```bash
-git clone <your-repository-url>
+git clone https://github.com/codeeraryan/mbbsLandingPage
 ```
 
 2. Navigate to the project directory:
@@ -129,6 +129,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Contact
 
-Your Name - [aryanpandey0326@gmail.com](mailto:aryanpandey0326@gmail.com)
+Email - [aryanpandey0326@gmail.com](mailto:aryanpandey0326@gmail.com)
 
-Project Link: [https://github.com/codeeraryan/mbbsLandingPage](https://github.com/yourusername/study-mbbs-abroad)
+Live Link: [https://landingpagembbs.netlify.app/](https://landingpagembbs.netlify.app/)
